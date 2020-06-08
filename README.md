@@ -7,6 +7,6 @@ Basic html app that shows how to translate an app from a mockup created by a gra
 1. Download the folder with the repository.
 2. Open the index.html file in Google Chrome to see the project. 
 
-![MOCKUP TO ARTICLE](https://github.com/anferebu/PROJECT-MOCKUP-TO-ARTICLE/blob/master/MOCKUP%20TO%20ARTICLE.jpg)
+![MOCKUP TO ARTICLE](https://raw.githubusercontent.com/ARBUCHELI/MOCKUP-TO-ARTICLE/master/mockup.jpg)
 
 # Author: Andrés R. Bucheli
